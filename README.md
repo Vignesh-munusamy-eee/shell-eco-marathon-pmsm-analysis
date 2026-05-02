@@ -42,3 +42,7 @@ under real competition conditions.
 MSc Electrical & Electronic Engineering — Coventry University  
 📧 Vignesh200210@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/vignesh-munusamy-b0860325b)
+## 🎥 Project Videos
+
+### PMSM Motor Testing Process
+[![PMSM Motor Testing](https://img.youtube.com/vi/eFjN2M7gGlg/0.jpg)](https://youtu.be/eFjN2M7gGlg)
