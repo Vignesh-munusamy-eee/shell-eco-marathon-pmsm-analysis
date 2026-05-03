@@ -44,5 +44,10 @@ MSc Electrical & Electronic Engineering — Coventry University
 🔗 [LinkedIn](https://linkedin.com/in/vignesh-munusamy-b0860325b)
 ## 🎥 Project Videos
 
-### PMSM Motor Testing Process
+## 🎥 Project Videos
+
+### 1️⃣ PMSM Motor Testing Process
 [![PMSM Motor Testing](https://img.youtube.com/vi/eFjN2M7gGlg/0.jpg)](https://youtu.be/eFjN2M7gGlg)
+
+### 2️⃣ LCR Motor Component Testing
+[![LCR Motor Testing](https://img.youtube.com/vi/gtRYKFnrFYU/0.jpg)](https://youtu.be/gtRYKFnrFYU)
